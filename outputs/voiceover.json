@@ -1,0 +1,398 @@
+{
+ "lines": [
+  {
+   "line_id": "L01",
+   "duration": 4.85,
+   "file": "vo/L01.mp3",
+   "words": 15
+  },
+  {
+   "line_id": "L02",
+   "duration": 4.8,
+   "file": "vo/L02.mp3",
+   "words": 15
+  },
+  {
+   "line_id": "L03",
+   "duration": 6.67,
+   "file": "vo/L03.mp3",
+   "words": 23
+  },
+  {
+   "line_id": "L04",
+   "duration": 8.69,
+   "file": "vo/L04.mp3",
+   "words": 30
+  },
+  {
+   "line_id": "L05",
+   "duration": 4.92,
+   "file": "vo/L05.mp3",
+   "words": 14
+  },
+  {
+   "line_id": "L06",
+   "duration": 7.03,
+   "file": "vo/L06.mp3",
+   "words": 25
+  },
+  {
+   "line_id": "L07",
+   "duration": 4.2,
+   "file": "vo/L07.mp3",
+   "words": 12
+  },
+  {
+   "line_id": "L08",
+   "duration": 4.85,
+   "file": "vo/L08.mp3",
+   "words": 19
+  },
+  {
+   "line_id": "L09",
+   "duration": 6.36,
+   "file": "vo/L09.mp3",
+   "words": 20
+  },
+  {
+   "line_id": "L10",
+   "duration": 5.45,
+   "file": "vo/L10.mp3",
+   "words": 18
+  },
+  {
+   "line_id": "L11",
+   "duration": 4.8,
+   "file": "vo/L11.mp3",
+   "words": 15
+  },
+  {
+   "line_id": "L12",
+   "duration": 6.05,
+   "file": "vo/L12.mp3",
+   "words": 21
+  },
+  {
+   "line_id": "L13",
+   "duration": 3.77,
+   "file": "vo/L13.mp3",
+   "words": 12
+  },
+  {
+   "line_id": "L14",
+   "duration": 6.65,
+   "file": "vo/L14.mp3",
+   "words": 24
+  },
+  {
+   "line_id": "L15",
+   "duration": 5.35,
+   "file": "vo/L15.mp3",
+   "words": 18
+  },
+  {
+   "line_id": "L16",
+   "duration": 4.87,
+   "file": "vo/L16.mp3",
+   "words": 17
+  },
+  {
+   "line_id": "L17",
+   "duration": 5.16,
+   "file": "vo/L17.mp3",
+   "words": 17
+  },
+  {
+   "line_id": "L18",
+   "duration": 4.25,
+   "file": "vo/L18.mp3",
+   "words": 12
+  },
+  {
+   "line_id": "L19",
+   "duration": 6.0,
+   "file": "vo/L19.mp3",
+   "words": 17
+  },
+  {
+   "line_id": "L20",
+   "duration": 4.99,
+   "file": "vo/L20.mp3",
+   "words": 16
+  },
+  {
+   "line_id": "L21",
+   "duration": 6.67,
+   "file": "vo/L21.mp3",
+   "words": 20
+  },
+  {
+   "line_id": "L22",
+   "duration": 3.67,
+   "file": "vo/L22.mp3",
+   "words": 10
+  },
+  {
+   "line_id": "L23",
+   "duration": 5.4,
+   "file": "vo/L23.mp3",
+   "words": 19
+  },
+  {
+   "line_id": "L24",
+   "duration": 5.23,
+   "file": "vo/L24.mp3",
+   "words": 15
+  },
+  {
+   "line_id": "L25",
+   "duration": 6.77,
+   "file": "vo/L25.mp3",
+   "words": 20
+  },
+  {
+   "line_id": "L26",
+   "duration": 5.76,
+   "file": "vo/L26.mp3",
+   "words": 17
+  },
+  {
+   "line_id": "L27",
+   "duration": 3.84,
+   "file": "vo/L27.mp3",
+   "words": 14
+  },
+  {
+   "line_id": "L28",
+   "duration": 4.99,
+   "file": "vo/L28.mp3",
+   "words": 15
+  },
+  {
+   "line_id": "L29",
+   "duration": 5.71,
+   "file": "vo/L29.mp3",
+   "words": 16
+  },
+  {
+   "line_id": "L30",
+   "duration": 5.33,
+   "file": "vo/L30.mp3",
+   "words": 17
+  },
+  {
+   "line_id": "L31",
+   "duration": 4.44,
+   "file": "vo/L31.mp3",
+   "words": 15
+  },
+  {
+   "line_id": "L32",
+   "duration": 2.21,
+   "file": "vo/L32.mp3",
+   "words": 8
+  },
+  {
+   "line_id": "L33",
+   "duration": 4.63,
+   "file": "vo/L33.mp3",
+   "words": 13
+  },
+  {
+   "line_id": "L34",
+   "duration": 7.15,
+   "file": "vo/L34.mp3",
+   "words": 24
+  },
+  {
+   "line_id": "L35",
+   "duration": 4.99,
+   "file": "vo/L35.mp3",
+   "words": 17
+  },
+  {
+   "line_id": "L36",
+   "duration": 5.23,
+   "file": "vo/L36.mp3",
+   "words": 18
+  },
+  {
+   "line_id": "L37",
+   "duration": 3.53,
+   "file": "vo/L37.mp3",
+   "words": 12
+  },
+  {
+   "line_id": "L38",
+   "duration": 5.33,
+   "file": "vo/L38.mp3",
+   "words": 17
+  },
+  {
+   "line_id": "L39",
+   "duration": 4.8,
+   "file": "vo/L39.mp3",
+   "words": 17
+  },
+  {
+   "line_id": "L40",
+   "duration": 5.16,
+   "file": "vo/L40.mp3",
+   "words": 17
+  },
+  {
+   "line_id": "L41",
+   "duration": 3.79,
+   "file": "vo/L41.mp3",
+   "words": 11
+  },
+  {
+   "line_id": "L42",
+   "duration": 5.83,
+   "file": "vo/L42.mp3",
+   "words": 18
+  },
+  {
+   "line_id": "L43",
+   "duration": 5.09,
+   "file": "vo/L43.mp3",
+   "words": 17
+  },
+  {
+   "line_id": "L44",
+   "duration": 5.52,
+   "file": "vo/L44.mp3",
+   "words": 18
+  },
+  {
+   "line_id": "L45",
+   "duration": 5.81,
+   "file": "vo/L45.mp3",
+   "words": 20
+  },
+  {
+   "line_id": "L46",
+   "duration": 5.76,
+   "file": "vo/L46.mp3",
+   "words": 19
+  },
+  {
+   "line_id": "L47",
+   "duration": 4.87,
+   "file": "vo/L47.mp3",
+   "words": 16
+  },
+  {
+   "line_id": "L48",
+   "duration": 5.88,
+   "file": "vo/L48.mp3",
+   "words": 17
+  },
+  {
+   "line_id": "L49",
+   "duration": 5.09,
+   "file": "vo/L49.mp3",
+   "words": 15
+  },
+  {
+   "line_id": "L50",
+   "duration": 5.59,
+   "file": "vo/L50.mp3",
+   "words": 16
+  },
+  {
+   "line_id": "L51",
+   "duration": 5.69,
+   "file": "vo/L51.mp3",
+   "words": 18
+  },
+  {
+   "line_id": "L52",
+   "duration": 3.31,
+   "file": "vo/L52.mp3",
+   "words": 12
+  },
+  {
+   "line_id": "L53",
+   "duration": 5.35,
+   "file": "vo/L53.mp3",
+   "words": 18
+  },
+  {
+   "line_id": "L54",
+   "duration": 5.04,
+   "file": "vo/L54.mp3",
+   "words": 18
+  },
+  {
+   "line_id": "L55",
+   "duration": 6.07,
+   "file": "vo/L55.mp3",
+   "words": 22
+  },
+  {
+   "line_id": "L56",
+   "duration": 5.45,
+   "file": "vo/L56.mp3",
+   "words": 18
+  },
+  {
+   "line_id": "L57",
+   "duration": 4.51,
+   "file": "vo/L57.mp3",
+   "words": 14
+  },
+  {
+   "line_id": "L58",
+   "duration": 5.52,
+   "file": "vo/L58.mp3",
+   "words": 17
+  },
+  {
+   "line_id": "L59",
+   "duration": 4.68,
+   "file": "vo/L59.mp3",
+   "words": 13
+  },
+  {
+   "line_id": "L60",
+   "duration": 6.36,
+   "file": "vo/L60.mp3",
+   "words": 25
+  },
+  {
+   "line_id": "L61",
+   "duration": 4.85,
+   "file": "vo/L61.mp3",
+   "words": 17
+  },
+  {
+   "line_id": "L62",
+   "duration": 5.4,
+   "file": "vo/L62.mp3",
+   "words": 17
+  },
+  {
+   "line_id": "L63",
+   "duration": 4.51,
+   "file": "vo/L63.mp3",
+   "words": 14
+  },
+  {
+   "line_id": "L64",
+   "duration": 6.24,
+   "file": "vo/L64.mp3",
+   "words": 19
+  },
+  {
+   "line_id": "L65",
+   "duration": 7.27,
+   "file": "vo/L65.mp3",
+   "words": 25
+  }
+ ],
+ "total_duration": 344.03,
+ "total_words": 1115,
+ "pace_wps": 3.24,
+ "failed": []
+}

@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+input/
+jobs/
+*.mp4
+*.wav
+*.mp3
+keyframes/
+vo/
+segments/
+*.muse-github-snapshot-sync.json

@@ -1,0 +1,20 @@
+{
+  "film": "Karan Arjun (1995)",
+  "premise": "Twenty years ago, the villain Durjan Singh murdered Durga's husband and her two young sons, Karan and Arjun, before her eyes. Durga prayed to the goddess Kali, and her sons were reborn as Ajay and Vijay — but they grew up apart, with no memory of their past life. Now the two young men have reached Durjan's village, and the past is catching up with them.",
+  "hero": "Ajay (Karan reborn) and Vijay (Arjun reborn) — two brothers, reborn, who do not yet know who they are",
+  "villain": "Thakur Durjan Singh, who murdered their father and them, and now runs the village with his men and an illegal arms trade",
+  "heroine": "Sonia Saxena (Vijay's love) and Bindiya (Ajay's love); the emotional centre is the mother, Durga",
+  "emotional_catch": "A mother who lost both her sons still waits every day with flower garlands, believing 'Mere Karan Arjun aayenge' — and the jeep that passes her field is dragging her two sons behind it while the villains laugh.",
+  "key_events": [
+    {"title": "Palace confrontation", "description": "Durjan holds court at his palace while the two young men confront his elder and the village watches.", "shot_ids": ["S002","S003","S004","S005","S006","S009"]},
+    {"title": "The elder panics and pleads", "description": "Munshiji panics before the crowd, collapses outside a house, then pleads with the householder couple on the veranda.", "shot_ids": ["S023","S032","S035","S048","S049"]},
+    {"title": "Sonia's letter and Durga", "description": "Sonia reads a letter among roses and thinks of Vijay; the elder tells Durga what is happening.", "shot_ids": ["S081","S082","S083","S085","S086","S091"]},
+    {"title": "The night camp and the arms crates", "description": "At night, Durjan and Saxena's men open stacked crates in a lamplit camp — the illegal arms trade.", "shot_ids": ["S095","S098","S100","S103","S106","S110","S115"]},
+    {"title": "The boy is beaten, the gun comes out", "description": "A village boy is beaten and left bleeding; the gunman aims his pistol; Ajay reads a paper before the villagers.", "shot_ids": ["S132","S133","S135"]},
+    {"title": "Dragged behind the jeep, Durga's garlands", "description": "Vijay and Ajay are dragged face-down behind the jeep on ropes while the villains laugh — and Durga stands in the field holding up her garlands.", "shot_ids": ["S158","S162","S164","S168","S172","S173","S174"]},
+    {"title": "The black-and-white flashback", "description": "A flashback of the past life: horsemen and swords, the fight in which the brothers were killed.", "shot_ids": ["S188","S199","S206","S207"]},
+    {"title": "The standoff and the somber ending", "description": "Men confer and face off, police appear, and the clip ends with Durga and Bindiya sitting together in silence.", "shot_ids": ["S217","S220","S230","S233"]}
+  ],
+  "turning_point": "Durga holding up her garlands as the jeep drags her sons past her — her faith meets the villains' cruelty in one frame.",
+  "ending_hook": "The brothers are beaten and dragged, the mother still waits — and the flashback says they have died like this once before. Next part: do they remember who they are, and does Durjan finally fall?"
+}

@@ -1,0 +1,153 @@
+{
+ "emotional_catch": "A mother who lost both her sons 20 years ago still waits every day with flower garlands, believing 'Mere Karan Arjun aayenge' — and the two young men who remember nothing of their past life are pulled back to her village to finish the revenge.",
+ "film": "Karan Arjun (1995)",
+ "film_evidence": "Dialogue in the clip names Karan, Arjun, Durjan Singh, Thakur and Saxena (v1 tiny transcript: 'karan Arjun' at ~288-303s, 'Durjan' at ~497s, 'Thakur', 'Saxena'); plot beats match exactly: a mother waiting with garlands for her murdered sons, two reborn young men, a palace villain, illegal arms crates at a night camp, a letter, a B&W flashback of the murder. Cross-checked against the film's known story (Wikipedia/plot summaries).",
+ "persons": {
+  "PA": {
+   "confidence": "high",
+   "evidence": "Ajay = Karan reborn (Salman Khan); leaner face, long dark hair, mustache — film story + face match. Dialogue speaks \"Karan\" (small transcript 97-105s, 204-207s).",
+   "name": "Ajay (Karan)",
+   "role": "hero — Karan reborn",
+   "visual": "Young man, leaner face, long dark hair, mustache; green / mustard shirts, jeans. NOTE: a similar-looking henchman (PT) wears mustard too — tell them apart by face (Ajay is leaner) and by story (Ajay is with Vijay / gets dragged; PT drives the jeep)."
+  },
+  "PB": {
+   "confidence": "high",
+   "evidence": "Vijay = Arjun reborn (Shah Rukh Khan); curly hair, patterned vest — film story + face match. Dialogue speaks \"Arjun\" (small transcript 97-105s).",
+   "name": "Vijay (Arjun)",
+   "role": "hero — Arjun reborn",
+   "visual": "Young man, curly dark hair, patterned vest / black shirt"
+  },
+  "PC": {
+   "confidence": "medium-low",
+   "evidence": "Likely Suraj Singh (Aasif Sheikh), Durjan's son and Sonia's fiance — film story (script: \"I am Durjan Singh's son and Sonia's fiancee. My name is Suraj Singh.\"). Purple-shirt man is prominent (tent, jeep, fight, dragging). NOT confirmed from the clip's dialogue; script calls him only \"Durjan ka aadmi\" (safe either way).",
+   "name": null,
+   "role": "villain's man — likely Suraj Singh (Durjan's son), unconfirmed",
+   "visual": "Purple shirt, long grey-streaked hair, mustache, cruel laugh"
+  },
+  "PD": {
+   "confidence": "high",
+   "evidence": "Thakur Durjan Singh (Amrish Puri), villain; palace, riding jacket — film story + visuals. Dialogue speaks \"Durjan\" (small transcript 60.1s).",
+   "name": "Thakur Durjan Singh",
+   "role": "villain",
+   "visual": "Older heavyset man, mustache, riding jacket and boots, riding crop"
+  },
+  "PE": {
+   "confidence": "high",
+   "evidence": "Munshiji = Badal Munshi (Ashok Saraf), servant of Thakur Sangram Singh — Wikipedia cast + plot. Dialogue speaks \"Munshi\" (small transcript 54.9-56.7s; v1 tiny).",
+   "name": "Munshiji",
+   "role": "Thakur's servant / go-between",
+   "visual": "Yellow turban, round glasses, tilak, beige vest over white kurta; nervous, comic"
+  },
+  "PF": {
+   "confidence": "role-only",
+   "evidence": "Seated on the veranda receiving the elder's plea (S048); talks with the elder (S045, S046). No name known — narrate as 'ghar ka malik' / 'ek aadmi'.",
+   "name": null,
+   "role": "householder (ghar ka malik)",
+   "visual": "Middle-aged man, mustache, patterned kurta with a shawl"
+  },
+  "PG": {
+   "confidence": "high",
+   "evidence": "Durga Singh (Raakhee), mother; white sari, garlands — film story + visuals. Dialogue speaks \"Durga\" (small transcript 105-109s).",
+   "name": "Durga",
+   "role": "mother — heroine of the heart",
+   "visual": "Older woman, white sari with head covered; grey-pink sari when holding garlands in the field"
+  },
+  "PH": {
+   "confidence": "high",
+   "evidence": "Sonia Saxena (Kajol), Vijay's love; writes letters, red sari, with Durga — film story + visuals. Name not yet heard in the clip's dialogue.",
+   "name": "Sonia Saxena",
+   "role": "heroine — Vijay's love",
+   "visual": "Young woman, long dark hair, red and orange outfit"
+  },
+  "PI": {
+   "confidence": "high",
+   "evidence": "Bindiya (Mamta Kulkarni), tomboy, Ajay's love; blue sari + mirror-work dupatta, with Durga at the end — film story + visuals. Name not yet heard in the clip's dialogue.",
+   "name": "Bindiya",
+   "role": "heroine — Ajay's love",
+   "visual": "Young woman, blue sari, braid, colourful mirror-work dupatta, heavy jewellery"
+  },
+  "PJ": {
+   "confidence": "role-only",
+   "evidence": "Seated beside PF on the veranda (S048). Narrate as 'ghar ki malik' / 'ek mahila'.",
+   "name": null,
+   "role": "householder's wife",
+   "visual": "Middle-aged woman, green sari, gold jewellery"
+  },
+  "PK": {
+   "confidence": "low",
+   "evidence": "Seated beside Durjan on the palace lawn (S002, S003). No name known — narrate as 'ek mahila'.",
+   "name": null,
+   "role": "woman at the palace (possibly Durjan's wife)",
+   "visual": "Bright pink sari and headscarf, gold jewellery; distressed"
+  },
+  "PL": {
+   "confidence": "high for role",
+   "evidence": "Aims a pistol (S135); aims a scoped rifle (v1 S115). Narrate as 'Durjan ka aadmi'.",
+   "name": null,
+   "role": "Durjan's henchman (gunman)",
+   "visual": "Slicked-back dark hair, thick mustache, gold earring; pistol and scoped rifle"
+  },
+  "PM": {
+   "confidence": "high",
+   "evidence": "Saxena = Govind Saxena (Ranjeet), Sonia's father and Durjan's partner in the illegal arms trade — Wikipedia + plot summaries. Dialogue \"Arre Saxena\" (v1 tiny 30.1s).",
+   "name": "Mr. Saxena",
+   "role": "Sonia's father; Durjan's partner in the arms trade",
+   "visual": "Older man, greying hair, dark/light suit and tie"
+  },
+  "PN": {
+   "confidence": "low",
+   "evidence": "By the jeeps facing the crowd (S009). Decide from transcript context; otherwise call him 'ek aadmi'.",
+   "name": null,
+   "role": "beret man — police or Durjan's man (unresolved)",
+   "visual": "Dark green beret, khaki jacket over black turtleneck, mustache"
+  },
+  "PO": {
+   "confidence": "low",
+   "evidence": "Talks with Durjan and the elder (S217, S218, S220, S221). Minor; call him 'ek aadmi' unless the transcript names him.",
+   "name": null,
+   "role": "straw-hat man (unresolved)",
+   "visual": "Tan suit, straw hat"
+  },
+  "PP": {
+   "confidence": "low",
+   "evidence": "Sits with the elder (S227); house scenes. Narrate as 'ek aadmi'.",
+   "name": null,
+   "role": "comic sidekick",
+   "visual": "Striped shirt"
+  },
+  "PQ": {
+   "confidence": "role-only",
+   "evidence": "Beaten and left bleeding (S100-S109); cradled by a woman (S132). Per the genre rule, a random person is 'ek ladka'.",
+   "name": null,
+   "role": "a village boy (unnamed)",
+   "visual": "Young shirtless boy in a white dhoti, beaten and bleeding"
+  },
+  "PR": {
+   "confidence": "role-only",
+   "evidence": "Crowd scenes. Narrate as 'ek buzurg aadmi'.",
+   "name": null,
+   "role": "very old village elder",
+   "visual": "Very old man, large white turban, white mustache and beard"
+  },
+  "P_BOWLER": {
+   "confidence": "low",
+   "evidence": "Minor appearances. Narrate as 'ek aadmi'.",
+   "name": null,
+   "role": "older man in bowler hat (minor)",
+   "visual": "Suit and black bowler hat"
+  },
+  "PT": {
+   "confidence": "medium",
+   "evidence": "Drives the jeep that drags the brothers (S167, S169, S171, S173) while Ajay is the one being dragged — so he cannot be Ajay. Rounder face and thicker mustache than Ajay; always with PC/PL in villain scenes (tent S103/S105/S106). Role: Durjan's henchman (possibly Nahar or Shamsher).",
+   "name": null,
+   "role": "Durjan's henchman — jeep driver",
+   "visual": "Mustard/tan shirt and vest, rounder face, thick mustache, long dark hair"
+  }
+ },
+ "rules": [
+  "Narration uses the real names from this bible only where confidence is medium or higher AND the transcript confirms the name is spoken in the clip.",
+  "Anyone with confidence low / role-only is narrated by role ('Durjan ka aadmi', 'ghar ka malik', 'ek aadmi', 'ek mahila', 'ek ladka') — never by clothes.",
+  "PA and PB are tracked by face/hair across outfit changes, never by shirt colour."
+ ],
+ "film_verification": "Karan Arjun (1995), Rakesh Roshan — confirmed by dialogue (Karan, Arjun, Durga, Durjan, Munshi spoken) + web cross-check (Wikipedia, plot summaries, film script at stockq.org). No character named Rana exists in the film; the transcripts' \"Rana\" is a Whisper mishearing (likely Nahar, a brother-in-law)."
+}
