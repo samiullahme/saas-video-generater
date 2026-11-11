@@ -1,0 +1,545 @@
+{
+  "at": "2026-11-11T03:39:22.538Z",
+  "target": "phase1/out/lanesite15-fixed-1080p.mp4",
+  "results": [
+    {
+      "level": "OK",
+      "id": "contrast",
+      "msg": "microtext on white (fixed): 7.68:1 ≥ 4.5:1",
+      "detail": "#5A5248 on #FFFFFF",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "contrast",
+      "msg": "light microtext on white (fixed): 5.72:1 ≥ 4.5:1",
+      "detail": "#6E655A on #FFFFFF",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "contrast",
+      "msg": "SiteKit muted on cream: 5.25:1 ≥ 4.5:1",
+      "detail": "#6E655A on #F7F5F0",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "contrast",
+      "msg": "white on accentText button: 5.09:1 ≥ 4.5:1",
+      "detail": "#FFFFFF on #C73E12",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "contrast",
+      "msg": "accentText price on white: 5.09:1 ≥ 3:1",
+      "detail": "#C73E12 on #FFFFFF",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "contrast",
+      "msg": "LINK display type (large, 3:1 floor): 3.11:1 ≥ 3:1",
+      "detail": "#FFFFFF on #FF5A2E",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "contrast",
+      "msg": "chat bubble text: 15.29:1 ≥ 4.5:1",
+      "detail": "#F5EFE5 on #1C1917",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "contrast",
+      "msg": "right bubble text: 14.77:1 ≥ 4.5:1",
+      "detail": "#1A1712 on #EFE9DC",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "contrast",
+      "msg": "card body on white: 18.79:1 ≥ 4.5:1",
+      "detail": "#141110 on #FFFFFF",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "contrast",
+      "msg": "end-card sub text: 12.96:1 ≥ 4.5:1",
+      "detail": "#D8D0BF on #0B0908",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "contrast",
+      "msg": "end-card footer text: 7.68:1 ≥ 4.5:1",
+      "detail": "#A8A094 on #0B0908",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "contrast",
+      "msg": "Seen line on film bg: 9.53:1 ≥ 4.5:1",
+      "detail": "#BDB2A4 on #0B0908",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "contrast",
+      "msg": "input placeholder on dark: 6.74:1 ≥ 4.5:1",
+      "detail": "#A89E8F on #1B1714",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "contrast",
+      "msg": "View all on comment bg: 8.86:1 ≥ 4.5:1",
+      "detail": "#BDB2A4 on #17130F",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "contrast",
+      "msg": "Maya link label on film bg: 8.59:1 ≥ 4.5:1",
+      "detail": "#FF8A66 on #0B0908",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "contrast",
+      "msg": "link card sub on white: 5.38:1 ≥ 4.5:1",
+      "detail": "#6E6A63 on #FFFFFF",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "contrast",
+      "msg": "white avatar letter on accentText: 5.09:1 ≥ 3:1",
+      "detail": "#FFFFFF on #C73E12",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "forbidden",
+      "msg": "no \"11:42\" in fixed source",
+      "detail": "",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "forbidden",
+      "msg": "no \"Building preview\" in fixed source",
+      "detail": "",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "forbidden",
+      "msg": "no \"Pro CANCELLED\" in fixed source",
+      "detail": "",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "forbidden",
+      "msg": "no \"ends Nov 27\" in fixed source",
+      "detail": "",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "forbidden",
+      "msg": "no \"maple_hero\" in fixed source",
+      "detail": "",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "forbidden",
+      "msg": "no \"maple_menu\" in fixed source",
+      "detail": "",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "forbidden",
+      "msg": "no \"maple_order\" in fixed source",
+      "detail": "",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "forbidden",
+      "msg": "no \"dashboard-stats\" in fixed source",
+      "detail": "",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "forbidden",
+      "msg": "no \"maple_site\" in fixed source",
+      "detail": "",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "forbidden",
+      "msg": "no \"hero_1500\" in fixed source",
+      "detail": "",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "forbidden",
+      "msg": "no \"buildlog.png\" in fixed source",
+      "detail": "",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "forbidden",
+      "msg": "#8A8072 absent from fixed source",
+      "detail": "",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "forbidden",
+      "msg": "#9C9184 absent from fixed source",
+      "detail": "",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "forbidden",
+      "msg": "#A69C8D absent from fixed source",
+      "detail": "",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "forbidden",
+      "msg": "#7A7066 absent from fixed source",
+      "detail": "",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "forbidden",
+      "msg": "#8F8678 absent from fixed source",
+      "detail": "",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "forbidden",
+      "msg": "#9C9385 absent from fixed source",
+      "detail": "",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "geometry",
+      "msg": "composition is 1080x1920, 30fps, 450 frames",
+      "detail": "",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "safezone-captions",
+      "msg": "captions bottom 205 comp px = 461px final (≥ 461px / 24%)",
+      "detail": "",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "safezone-captions",
+      "msg": "caption font 25 comp px = 56px final (≥ 56px)",
+      "detail": "",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "chime",
+      "msg": "notif_short at frame 384, bubble at 383 (Δ1f)",
+      "detail": "",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "music",
+      "msg": "music volume uses ducked (0.34) + gap (0.5) gains from tokens",
+      "detail": "",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "captions",
+      "msg": "group \"YOU BUILT THIS\": 6–30f inside VO F1 6–47f",
+      "detail": "",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "captions",
+      "msg": "group \"LAST NIGHT.\": 48–70f inside VO M1 48–77f",
+      "detail": "",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "captions",
+      "msg": "group \"WHOLE SITE\": 79–98f inside VO F2 79–112f",
+      "detail": "",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "captions",
+      "msg": "group \"MENU PRICES\": 114–152f inside VO M2 114–200f",
+      "detail": "",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "captions",
+      "msg": "group \"BOOKINGS\": 154–176f inside VO M2 114–200f",
+      "detail": "",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "captions",
+      "msg": "group \"DASHBOARD.\": 178–200f inside VO M2 114–200f",
+      "detail": "",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "captions",
+      "msg": "group \"NO WAY.\": 202–226f inside VO F3 202–235f",
+      "detail": "",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "captions",
+      "msg": "group \"I DESCRIBED MY\": 237–266f inside VO M3 237–290f",
+      "detail": "",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "captions",
+      "msg": "group \"BAKERY.\": 268–290f inside VO M3 237–290f",
+      "detail": "",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "captions",
+      "msg": "group \"IT BUILT\": 291–308f inside VO M4 291–346f",
+      "detail": "",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "captions",
+      "msg": "group \"EVERYTHING.\": 310–346f inside VO M4 291–346f",
+      "detail": "",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "captions",
+      "msg": "group \"THE LINK\": 348–362f inside VO F4 348–379f",
+      "detail": "",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "captions",
+      "msg": "group \"COMMENT LINK.\": 380–402f inside VO M5 380–438f",
+      "detail": "",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "captions",
+      "msg": "group \"I'LL SEND IT\": 407–426f inside VO M5 380–438f",
+      "detail": "",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "captions",
+      "msg": "group \"TO YOU.\": 427–438f inside VO M5 380–438f",
+      "detail": "",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "captions",
+      "msg": "VO F1: measured 41f = timing 42f",
+      "detail": "",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "captions",
+      "msg": "VO M1: measured 29f = timing 30f",
+      "detail": "",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "captions",
+      "msg": "VO F2: measured 34f = timing 34f",
+      "detail": "",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "captions",
+      "msg": "VO M2: measured 86f = timing 87f",
+      "detail": "",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "captions",
+      "msg": "VO F3: measured 34f = timing 34f",
+      "detail": "",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "captions",
+      "msg": "VO M3: measured 53f = timing 54f",
+      "detail": "",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "captions",
+      "msg": "VO M4: measured 55f = timing 56f",
+      "detail": "",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "captions",
+      "msg": "VO F4: measured 31f = timing 32f",
+      "detail": "",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "captions",
+      "msg": "VO M5: measured 58f = timing 59f",
+      "detail": "",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "safezone",
+      "msg": "captions (global): 461px / 56px",
+      "detail": "caption",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "safezone",
+      "msg": "chat input bar (SceneChatIntro): bottom 338px final (clear of 320px)",
+      "detail": "ui",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "safezone",
+      "msg": "comment sheet (SceneLinkAsk): bottom 486px final (clear of 320px)",
+      "detail": "ui",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "safezone",
+      "msg": "end-card logo (SceneEnd): bottom 450px final (clear of 320px)",
+      "detail": "ui",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "safezone",
+      "msg": "end-card price line (SceneEnd): bottom 719px final (clear of 320px)",
+      "detail": "ui",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "safezone",
+      "msg": "\"3 pages · 1 form\" chip (SceneWhole): bottom 457px final (clear of 320px)",
+      "detail": "ui",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "safezone",
+      "msg": "LIVE pill (SceneBuild): bottom 412px final (clear of 320px)",
+      "detail": "ui",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "safezone",
+      "msg": "chip (SceneNoWay): bottom 360px final (clear of 320px)",
+      "detail": "ui",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "black",
+      "msg": "no black frames (min mean luminance 12.0)",
+      "detail": "",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "static",
+      "msg": "no static window > 0.35s (10fps, max-cell diff threshold 2.0)",
+      "detail": "",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "static-detail",
+      "msg": "diffs: min 0.00, p10 0.25, median 1.20, max 115.59",
+      "detail": "",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "loudness",
+      "msg": "input integrated -14.17 LUFS (target -14 ±1)",
+      "detail": "TP -2.23, LRA 1.3",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "loudness",
+      "msg": "true peak -2.23 dBTP ≤ -1.5",
+      "detail": "",
+      "pass": true
+    },
+    {
+      "level": "OK",
+      "id": "loudness",
+      "msg": "LRA 1.3 ≤ 11",
+      "detail": "",
+      "pass": true
+    }
+  ]
+}

@@ -1,7 +1,0 @@
-fastapi
-uvicorn
-python-multipart
-faster-whisper
-av==13.1.0  # faster-whisper 1.2.1 passes metadata_errors to av.open; av>=14 removed it, av 11 has no cp312 wheel — 13.1.0 is the working pin (verified 2026-11-08)
-scenedetect[opencv-headless]
-httpx
