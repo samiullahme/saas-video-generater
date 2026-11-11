@@ -1,14 +1,2 @@
-.venv/
-__pycache__/
-*.pyc
-.env
-data/
-input/
-jobs/
-*.mp4
-*.wav
-*.mp3
-keyframes/
-vo/
-segments/
-*.muse-github-snapshot-sync.json
+node_modules/
+.next/
